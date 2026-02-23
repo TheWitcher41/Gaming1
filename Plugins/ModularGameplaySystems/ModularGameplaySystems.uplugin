@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "Modular Gameplay Systems",
+	"Description": "Production-ready modular gameplay systems for Unreal Engine 5.3: Inventory, Quest, Save, and Ability systems with full Blueprint integration.",
+	"Category": "Gameplay",
+	"CreatedBy": "TheWitcher41",
+	"CreatedByURL": "https://github.com/TheWitcher41/Gaming1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": false,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ModularGameplaySystems",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
